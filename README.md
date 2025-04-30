@@ -7,5 +7,7 @@ deploy disponible en:
 docker-compose
 aks
 gke
-DIGITALOCEAN KUBERNETES
+digtal ocean
+
+
 
